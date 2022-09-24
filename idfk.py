@@ -1,4 +1,3 @@
-import random
-
-spill_tilfeldig = random.randint(1 ,  314)
-print(spill_tilfeldig)
+tall = [1,2,3]
+for test in tall:
+    print(test)

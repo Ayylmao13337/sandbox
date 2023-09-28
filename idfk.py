@@ -1,3 +1,2 @@
-tall = [1,2,3]
-for test in tall:
-    print(test)
+for i in range(1,10):
+    print(i)
